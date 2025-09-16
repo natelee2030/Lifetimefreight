@@ -1,4 +1,3 @@
-Absolutely! Here’s a professional README.md tailored for your LifetimeFreight.com GitHub project, explaining the purpose, structure, and how to deploy it:
 
 # LifetimeFreight.com
 
